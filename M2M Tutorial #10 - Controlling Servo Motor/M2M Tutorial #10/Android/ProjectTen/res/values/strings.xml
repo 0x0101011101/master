@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M2M Demo - Lesson #10</string>
+    <string name="action_settings">Settings</string>
+    <string name="x_axis_tilt_text_placeholder">X : </string>
+</resources>
