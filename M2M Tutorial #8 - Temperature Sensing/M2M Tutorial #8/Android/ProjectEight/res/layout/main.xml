@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<com.m2m.projecteight.TemperatureView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:temperatureview ="http://schemas.android.com/apk/res/com.m2m.projecteight"
+    android:id="@+id/custom_view"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#000000"
+    temperatureview:textSize="18">
+
+</com.m2m.projecteight.TemperatureView>
+
+
+
