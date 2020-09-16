@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M2M Demo - Lesson #9</string>
+    <string name="action_settings">Settings</string>
+    <string name="touch_foil_identifier">Touch !</string>
+    <string name="no_touch_foil_identifier">No Touch</string>
+</resources>
