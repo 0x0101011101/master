@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M2M Demo - Android w/ Arduino Hello World</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Waiting message from Arduino ...</string>
+
+</resources>

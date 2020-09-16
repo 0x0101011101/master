@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <usb-accessory manufacturer="0x0101011101"
+        		   model="M2MAndroidArduinoHelloWorld"
+        		   description="M2M DemoKit Arduino Board - Hello World"
+				   version="1.0"
+				   uri=""
+				   serial="0000000005061967">
+	</usb-accessory>
+</resources>
