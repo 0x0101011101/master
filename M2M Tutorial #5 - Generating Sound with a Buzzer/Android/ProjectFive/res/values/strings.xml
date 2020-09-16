@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M2M Demo - Lesson #5</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello World, HelloWorldActivity</string>
+    <string name="notes_prompt">Choose a note</string>
+    
+    <string-array name="notes">
+        <item>C3</item>
+        <item>D3</item>
+        <item>E3</item>
+        <item>F3</item>
+        <item>G3</item>
+        <item>A3</item>
+        <item>B3</item>
+    </string-array>
+    
+</resources>
